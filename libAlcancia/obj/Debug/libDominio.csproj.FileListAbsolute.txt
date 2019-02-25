@@ -1,0 +1,14 @@
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libDominio.dll.config
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libDominio.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libDominio.pdb
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libCruds.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libInterfaces.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libCruds.pdb
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libCruds.dll.config
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libInterfaces.pdb
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\bin\Debug\libInterfaces.dll.config
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\obj\Debug\libDominio.csprojAssemblyReference.cache
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\obj\Debug\libDominio.csproj.CoreCompileInputs.cache
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\obj\Debug\libDominio.csproj.CopyComplete
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\obj\Debug\libDominio.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libDominio\obj\Debug\libDominio.pdb
