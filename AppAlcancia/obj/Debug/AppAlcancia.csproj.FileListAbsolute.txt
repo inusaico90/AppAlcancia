@@ -1,0 +1,2 @@
+C:\Users\Erney\source\repos\AppAlcancia\AppAlcancia\obj\Debug\AppAlcancia.csprojAssemblyReference.cache
+C:\Users\Erney\source\repos\AppAlcancia\AppAlcancia\obj\Debug\AppAlcancia.csproj.CoreCompileInputs.cache
