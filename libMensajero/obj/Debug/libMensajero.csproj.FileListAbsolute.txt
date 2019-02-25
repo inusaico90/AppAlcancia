@@ -1,0 +1,6 @@
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\bin\Debug\libMensajero.dll.config
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\bin\Debug\libMensajero.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\bin\Debug\libMensajero.pdb
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\obj\Debug\libMensajero.csproj.CoreCompileInputs.cache
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\obj\Debug\libMensajero.dll
+C:\Users\Erney\Desktop\U\Obj\AppAlcancia\libMensajero\obj\Debug\libMensajero.pdb
